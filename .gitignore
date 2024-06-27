@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+pags/*
+!pags/deneme.js
 # testing
 /coverage
 
