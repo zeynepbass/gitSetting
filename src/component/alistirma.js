@@ -2,7 +2,7 @@ import React from 'react'
 
 const Alistirma = () => {
   return (
-    <div>Alistirma</div>
+    <div>dfsdfsdf</div>
   )
 }
 
