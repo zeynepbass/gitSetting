@@ -1,9 +1,9 @@
 import React from 'react'
 
-const deneme = () => {
+const Alistirma = () => {
   return (
-    <div>sdfsd</div>
+    <div>dfsdfsdf</div>
   )
 }
 
-export default deneme
+export default Alistirma
